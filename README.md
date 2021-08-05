@@ -21,7 +21,7 @@ cjdata.tumorBorder: a vector storing the coordinates of discrete points on tumor
 		binary image of tumor mask.
 cjdata.tumorMask: a binary image with 1s indicating tumor region
 
-The data was then exported as png files using the mfile script, Note that this project uses all color matrices of the png files, which of course as I later realized is quite redundant, as you can load the .mat dataset directly into Python, and even if you load it as .png files you only need to use grayscale to save on processing time. at the time i started this project this was however still unknown to me and due to time constraints i never got around to it, but thought i should at least mention it.
+The data was then exported as png files using the mfile script, which of course as I later realized is quite redundant, as you can load the .mat dataset directly into Python, . at the time i started this project this was however still unknown to me and due to time constraints i never got around to it, but thought i should at least mention it.
 
 Also note that data augmentation is used (Zoom, horizontal flip, and Shear) in order to increase the data size as it's subpar for deep learning use in its current state.
 
