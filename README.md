@@ -4,6 +4,10 @@
 Classification and segmentation of brain tumors in medical images is an important step when diagnosing, monitoring, and treating the disease. This is usually done manually by a radiologist, but recent years have seen an increase in the use of neural networks to classify and segment tumors in MRI images of patients. In this work we use two deep neural networks (DNNs), a U-Net and a CNN, to replicate results achieved by other researchers using a similar approach.
 Two Deep Learning models based on convolutional neural networks and U-Nets are proposed to classify and segment different brain tumor types respectively. Using a publicly available MRI image dataset which contains 3 types of tumors (meningiomas, gliomas, and pituitary tumors). The dataset includes 233 patients with a total of 3064 images on T1-weighted contrast-enhanced images. The proposed network structures achieved a significant performance with the best overall accuracy of 96.35% for classification and 71.7% for segmentation. The results indicate the ability of the models for assistive brain tumor diagnosis purposes.
 
+# N.B:
+the result models are too big to be uploaded here, so here's a gdrive link to them:
+https://drive.google.com/drive/folders/1W_Mn1pwovOzNYUO5yFXzY0kbfWLQr4dx?usp=sharing
+
 # The used Dataset:
 The brain tumor dataset contains 3064 T1-weighted contrast-inhanced images
 from 233 patients with three kinds of brain tumor: meningioma (708 slices), 
