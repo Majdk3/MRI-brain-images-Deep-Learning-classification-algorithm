@@ -36,4 +36,17 @@ https://figshare.com/articles/dataset/brain_tumor_dataset/1512427?file=7953679
 ![image](https://user-images.githubusercontent.com/88331345/128345850-88accf21-0bcf-494f-a865-8ffd64584054.png)
 
 
-# Classification:
+# Results:
+Classification confusion matrix:
+
+![c-m-c](https://user-images.githubusercontent.com/88331345/128600203-558dd2ac-cc97-4a6b-a9a8-750f9787d291.png)
+
+Classification metrics:
+
+![r-c](https://user-images.githubusercontent.com/88331345/128600215-31a215b2-a4a5-418b-ac91-653e4fb74b3a.png)
+
+GUI test result example:
+
+![image](https://user-images.githubusercontent.com/88331345/128600245-58bbedd7-f9e3-4520-95c3-b999fb326ce6.png)
+
+
